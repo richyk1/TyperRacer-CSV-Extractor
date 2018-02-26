@@ -17,5 +17,5 @@ python typerracer.py [profile_name]
 - [ ] Add multiple exporting options e.g. txt, pdf, db...
 
 
-![](https://i.imgur.com/BKFHPR9.png)
+![](https://i.imgur.com/rwCnoNG.png)
 ![](http://data.typeracer.com/public/images/export_spreadsheet.gif)
