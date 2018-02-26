@@ -15,3 +15,7 @@ python typerracer.py [profile_name]
 - [ ] Option to add the Text ID together with the other properties
 - [ ] Make the code more user-friendly
 - [ ] Add multiple exporting options e.g. txt, pdf, db...
+
+
+![](https://i.imgur.com/BKFHPR9.png)
+![](http://data.typeracer.com/public/images/export_spreadsheet.gif)
